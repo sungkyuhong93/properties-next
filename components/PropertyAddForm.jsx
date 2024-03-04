@@ -56,6 +56,7 @@ const PropertyAddForm = () => {
       }));
     }
   };
+  
   const handleAmenitiesChange = (e) => {
     const { value, checked } = e.target;
 
